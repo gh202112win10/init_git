@@ -1,2 +1,4 @@
-1�ŏ��̃e�L�X�g
-�Q��{
+１最初のテキスト
+２基本    
+３　UTF8
+git status
